@@ -4,4 +4,5 @@ Blue
 Red
 Green
 Pink
-These are some of the colours of my rainbow.
+All colors
+These are some of the colors of my rainbow.
