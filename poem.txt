@@ -8,5 +8,4 @@ Indigo
 Pink
 All colors
 These are some of the colors of my rainbow
-And the unicorn,
-But the pony...
+And the unicorn.
