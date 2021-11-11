@@ -3,6 +3,7 @@ White
 Blue
 Red
 Green
+Indigo
 Pink
 All colors
 These are some of the colors of my rainbow
